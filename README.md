@@ -2,7 +2,7 @@
 repacker for him5/him4/hxp dependant on fushigi
 
 usage:
->*py repacker.py [folder with translated scripts/images/sounds]*
+>*py repacker_himX.py [folder with translated scripts/images/sounds]*
 
 # Notes
 The Him5 repacker doesn't serve a purpose and should be only used for developing tools that actually incorperate the HEX System used by the respective game.
